@@ -1,4 +1,4 @@
-# Track App
-A mini software created using Python's GUI Kivy.
+# AllesTrack
+A software created using Python, Kivy, MDKivy and SQLite.
 
-It's useful to keep track of every piece of content that you consume, that can be a book, a movie, etc. 
+It's useful to keep track of every content that you consume, that can be a book, a movie, etc. 
